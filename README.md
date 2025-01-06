@@ -97,28 +97,36 @@ Ensure that Python is installed on your system. You can download Python from the
 Clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/abdelrahmanatefmorsy/ZED
+```
 
 ### 3. Activate the virtual environment
 Clone the repository to your local machine using Git:
 
  On Windows
+ 
 ```bash
 env\bin\activate
-
+```
 On macOS/Linux
 
 ```bash
 source env/bin/activate
+```
 
 ### 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 5. Configure the Database
+
 ```bash
 python manage.py migrate
+```
 
 ### 6. Configure the Database
+
 ```bash
 python manage.py runserver
+```
