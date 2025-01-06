@@ -26,6 +26,62 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - **Edit course videos**: The course creator can edit and manage the videos within the course at any time.
 - **Control video visibility**: Course creators can control which videos are visible to users at any given time, allowing some videos to be hidden or shown based on the course's progress.
 
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+#### 1. Install Python
+Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+
+#### 2. Clone the Repository
+Clone the repository to your local machine using Git:
+```bash
+git clone https://github.com/abdelrahmanatefmorsy/ZED
+```
+#### 3 . Create the enviroment
+
+```bash
+python -m venv env
+```
+#### 4. Activate the virtual environment
+Clone the repository to your local machine using Git:
+
+ - On Windows
+ 
+   ```bash
+   venv\bin\activate
+   ```
+- On macOS/Linux
+
+   ```bash
+   source venv/bin/activate
+   ```
+
+#### 5. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+#### 6. Change Directory To manage.py 
+```bash
+cd .\src\env\ZED\ 
+```
+#### 7. Configure the Database
+
+```bash
+python manage.py migrate
+```
+
+#### 8. Run The server
+
+```bash
+python manage.py runserver
+```
+#### 9. You can access The website at 
+```
+http://127.0.0.1:8000
+```
+
 ## Usage
 
 1. **Home Page**:
@@ -86,58 +142,4 @@ This project is built using the following technologies:
 - **Python**: For backend logic and server-side programming.
 - **Django Framework**: For building the backend with Python, handling database operations, and managing the overall structure of the web application.
 
-## Installation
 
-Follow these steps to set up the project on your local machine:
-
-#### 1. Install Python
-Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
-
-#### 2. Clone the Repository
-Clone the repository to your local machine using Git:
-```bash
-git clone https://github.com/abdelrahmanatefmorsy/ZED
-```
-#### 3 . Create the enviroment
-
-```bash
-python -m venv env
-```
-#### 4. Activate the virtual environment
-Clone the repository to your local machine using Git:
-
- - On Windows
- 
-   ```bash
-   venv\bin\activate
-   ```
-- On macOS/Linux
-
-   ```bash
-   source venv/bin/activate
-   ```
-
-#### 5. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-#### 6. Change Directory To manage.py 
-```bash
-cd .\src\env\ZED\ 
-```
-#### 7. Configure the Database
-
-```bash
-python manage.py migrate
-```
-
-#### 8. Run The server
-
-```bash
-python manage.py runserver
-```
-#### 9. You can access The website at 
-```
-http://127.0.0.1:8000
-```
