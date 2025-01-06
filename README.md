@@ -7,9 +7,9 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 ## Table of Contents
 - [Features](#Features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#Usage)
+- [Technologies Used](#Technologies Used)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -75,5 +75,15 @@ ZED aims to create a collaborative learning environment that facilitates knowled
    - Once you've joined a course, go to your **Profile** and select the course from your list of joined courses.
    - Click on **Go** to start viewing the videos for that course.
    - You can watch the course videos if the course is **Active** and you have enrolled.
+
+## Technologies Used
+
+This project is built using the following technologies:
+
+- **HTML**: For creating the structure of the website.
+- **CSS**: For styling and making the website responsive.
+- **JavaScript**: For dynamic behavior and client-side interactivity.
+- **Python**: For backend logic and server-side programming.
+- **Django Framework**: For building the backend with Python, handling database operations, and managing the overall structure of the web application.
 
 
