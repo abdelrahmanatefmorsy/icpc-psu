@@ -86,4 +86,9 @@ This project is built using the following technologies:
 - **Python**: For backend logic and server-side programming.
 - **Django Framework**: For building the backend with Python, handling database operations, and managing the overall structure of the web application.
 
+## Installation
 
+Follow these steps to set up the project on your local machine:
+
+### 1. Install Python
+Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
