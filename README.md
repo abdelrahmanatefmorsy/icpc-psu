@@ -9,6 +9,7 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Technologies Used](#technologies-used)
+- [Future Features](#Future-Features)
 - [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
@@ -141,5 +142,12 @@ This project is built using the following technologies:
 - **JavaScript**: For dynamic behavior and client-side interactivity.
 - **Python**: For backend logic and server-side programming.
 - **Django Framework**: For building the backend with Python, handling database operations, and managing the overall structure of the web application.
+
+## Future Features
+
+- **Rating and Reviews**: Allow users to rate and leave reviews on courses to help others make informed decisions.
+- **Course Certification**: Provide certificates for users who complete a course successfully.
+- **User Messaging**: Add a messaging system for users to interact with instructors or fellow students.
+- **Instructor Dashboard**: Add a dashboard for course Publisher to manage their courses, Users, and video content more efficiently.
 
 
