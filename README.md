@@ -8,7 +8,7 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - [Features](#Features)
 - [Installation](#installation)
 - [Usage](#Usage)
-- [Technologies Used](#TechnologiesUsed)
+- [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
