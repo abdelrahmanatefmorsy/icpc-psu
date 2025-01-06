@@ -24,3 +24,4 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - **Video access**: Users can only access the course videos after they apply for the course, ensuring they are officially enrolled.
 - **Course status**: When creating a course, users can choose whether the course is **Active** or **Inactive**. Active courses are visible to everyone, while inactive ones are hidden from public view.
 - **Edit course videos**: The course creator can edit and manage the videos within the course at any time.
+- **Control video visibility**: Course creators can control which videos are visible to users at any given time, allowing some videos to be hidden or shown based on the course's progress.
