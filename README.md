@@ -1,4 +1,4 @@
-# ZED
+## ZED
 
 ZED is a course platform that allows users to easily create and publish their own courses, as well as join available courses on the platform. 
 
@@ -90,42 +90,49 @@ This project is built using the following technologies:
 
 Follow these steps to set up the project on your local machine:
 
-### 1. Install Python
+## 1. Install Python
 Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
 
-### 2. Clone the Repository
+## 2. Clone the Repository
 Clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/abdelrahmanatefmorsy/ZED
 ```
+## 3 . Create the enviroment
 
-### 3. Activate the virtual environment
+```bash
+python -m venv env
+```
+## 4. Activate the virtual environment
 Clone the repository to your local machine using Git:
 
  On Windows
  
 ```bash
-env\bin\activate
+venv\bin\activate
 ```
 On macOS/Linux
 
 ```bash
-source env/bin/activate
+source venv/bin/activate
 ```
 
-### 4. Install Dependencies
+## 5. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
-### 5. Configure the Database
+## 6. Change Directory To manage.py 
+```bash
+cd .\src\env\ZED\ 
+```
+## 7. Configure the Database
 
 ```bash
 python manage.py migrate
 ```
 
-### 6. Configure the Database
+## 8. Run The server
 
 ```bash
 python manage.py runserver
