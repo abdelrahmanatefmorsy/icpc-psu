@@ -12,3 +12,8 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+## Features
+- **Create courses**: Users can create their own courses, define topics, and add content such as videos, texts, and quizzes.
+- **Publish courses**: After creating a course, users can publish it for others to browse and join.
+- **Join courses**: Users can explore available courses and join the ones that match their interests.
