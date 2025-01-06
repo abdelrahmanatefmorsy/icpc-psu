@@ -25,3 +25,53 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - **Course status**: When creating a course, users can choose whether the course is **Active** or **Inactive**. Active courses are visible to everyone, while inactive ones are hidden from public view.
 - **Edit course videos**: The course creator can edit and manage the videos within the course at any time.
 - **Control video visibility**: Course creators can control which videos are visible to users at any given time, allowing some videos to be hidden or shown based on the course's progress.
+
+## Usage
+
+1. **Home Page**:
+   - Upon visiting the website, you'll land on the **Home Page** where you can view all available courses.
+   - You can browse courses without having an account, but you must sign up to apply for or join any course.
+
+2. **Sign Up**:
+   - To create an account, click on the **Sign Up** button located in the **Navbar**.
+   - Fill in the necessary details to create your account.
+   - Once signed up, you'll be able to apply for courses and create your own.
+
+3. **Create a Course**:
+   - After logging in, go to your **Profile** or the **Courses** page.
+   - Click the **Add Course** button.
+   - Fill in the course details such as:
+     - **Course Name**
+     - **Description**
+     - **Course Type** (Active or Inactive)
+   - Once completed, the course will appear in your profile, and you can modify it later.
+
+4. **Edit or Manage Your Course**:
+   - To edit a course, go to your profile and click on **View Details** for the specific course.
+   - From there, you can update the course details or add videos.
+
+5. **Add Videos to Your Course**:
+   - While editing your course, click on the **Add Video** button.
+   - You will need to provide:
+     - **Video Title**
+     - **Description**
+     - The **Video File**
+     - **Video Status** (Active or Inactive)
+   - The video will be added to your course, and you can modify it later by clicking **Edit Video** or delete it using the **Delete Video** button.
+
+6. **Delete a Course or Video**:
+   - To delete a course, go to your profile and click on the **Delete Course** button for the course you want to remove.
+   - Similarly, you can delete a video by selecting the **Delete Video** option while viewing the video details.
+
+7. **Join a Course**:
+   - To join a course, visit the **Courses** page, where you can search or browse for courses.
+   - Click on the **View Details** button for the course you're interested in.
+   - Click the **Apply** button to enroll in the course.
+   - The course will be added to your profile, and you can access it from there.
+
+8. **Access Course Videos**:
+   - Once you've joined a course, go to your **Profile** and select the course from your list of joined courses.
+   - Click on **Go** to start viewing the videos for that course.
+   - You can watch the course videos if the course is **Active** and you have enrolled.
+
+
