@@ -11,8 +11,7 @@ ZED aims to create a collaborative learning environment that facilitates knowled
 - [Technologies Used](#technologies-used)
 - [Future Features](#Future-Features)
 - [Screenshots](#screenshots)
-- [License](#license)
-- [Contact](#contact)
+- [Contributors](#Contributors)
 
 
 ## Features
@@ -151,3 +150,7 @@ This project is built using the following technologies:
 - **Instructor Dashboard**: Add a dashboard for course Publisher to manage their courses, Users, and video content more efficiently.
 
 
+## Contributors
+
+- **Abdelrahman Atef** – Backend Development
+- **Mohamed Adel** – Frontend Development
