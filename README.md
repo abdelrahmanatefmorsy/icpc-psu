@@ -106,16 +106,16 @@ python -m venv env
 #### 4. Activate the virtual environment
 Clone the repository to your local machine using Git:
 
- On Windows
+ - On Windows
  
-```bash
-venv\bin\activate
-```
-On macOS/Linux
+   ```bash
+   venv\bin\activate
+   ```
+- On macOS/Linux
 
-```bash
-source venv/bin/activate
-```
+   ```bash
+   source venv/bin/activate
+   ```
 
 #### 5. Install Dependencies
 
