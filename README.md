@@ -92,3 +92,8 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Install Python
 Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+
+### 2. Clone the Repository
+Clone the repository to your local machine using Git:
+```bash
+git clone https://github.com/abdelrahmanatefmorsy/ZED
