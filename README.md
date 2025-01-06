@@ -47,17 +47,23 @@ ZED aims to create a collaborative learning environment that facilitates knowled
    - Once completed, the course will appear in your profile, and you can modify it later.
 
 4. **Edit or Manage Your Course**:
-   - To edit a course, go to your profile and click on **View Details** for the specific course.
-   - From there, you can update the course details or add videos.
+   - To edit or manage your course, go to your profile and click on **View Details** for the specific course.
+   - From the **View Details** page, you can:
+     - **Update Course**: Edit the course details like the name, description, and status (Active/Inactive).
+     - **Delete Course**: If you wish to remove the course, click the **Delete Course** button.
 
 5. **Add Videos to Your Course**:
-   - While editing your course, click on the **Add Video** button.
+   - To add a video to your course, go to the **View Details** page of the course you want to add videos to.
+   - From there, you can click on the **Add Video** button.
    - You will need to provide:
      - **Video Title**
      - **Description**
      - The **Video File**
      - **Video Status** (Active or Inactive)
-   - The video will be added to your course, and you can modify it later by clicking **Edit Video** or delete it using the **Delete Video** button.
+   - The video will then be added to your course, and you can:
+     - **Edit the video**: You can update the video title, description, file, or status by clicking on the **Edit Video** button.
+     - **Delete the video**: If you no longer want a video, you can delete it by clicking the **Delete Video** button.
+
 
 6. **Delete a Course or Video**:
    - To delete a course, go to your profile and click on the **Delete Course** button for the course you want to remove.
